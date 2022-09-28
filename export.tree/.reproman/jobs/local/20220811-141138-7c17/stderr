@@ -1,0 +1,13 @@
+WARNING (08/12/22 09:22:12): LAUNCHER_WORKDIR variable not set. Using current directory.
+using /tmp/launcher.4714436.hostlist.yX13waNV to get hosts
+starting job on c169-063
+starting job on c170-171
+starting job on c171-023
+starting job on c171-063
+starting job on c171-094
+Warning: Permanently added 'c169-063' (ED25519) to the list of known hosts.
+Warning: Permanently added 'c171-063' (ED25519) to the list of known hosts.
+Warning: Permanently added 'c170-171' (ED25519) to the list of known hosts.
+Warning: Permanently added 'c171-023' (ED25519) to the list of known hosts.
+Warning: Permanently added 'c171-094' (ED25519) to the list of known hosts.
+slurmstepd: error: *** JOB 4714436 ON c169-063 CANCELLED AT 2022-08-12T11:45:34 ***
